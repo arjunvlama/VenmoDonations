@@ -26,6 +26,8 @@ Syntax highlighted code block
 [Link](url) and ![Image](CoronaVirusHeader-Final-3-1536x647.jpg)
 ```
 
+![Image](CoronaVirusHeader-Final-3-1536x647.jpg)
+
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
