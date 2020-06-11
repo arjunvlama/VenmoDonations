@@ -1,4 +1,4 @@
-Hi there, we are a few computer science students interested in making an impact in the COVID-19 pandemic. We are, over the course of the next few weeks, requesting $1 from every user on Venmo which will be donated to the COVID-19 Solidarity Response Fund for WHO. We want to show that a little contribution, through strength in numbers, can go a long way!  
+Hi there, we are a few computer science students interested in making an impact in the COVID-19 pandemic. We are, over the course of the next few weeks, requesting $1 from every user on Venmo which will be donated to the [COVID-19 Solidarity Response Fund for WHO](https://covid19responsefund.org/en/). We want to show that a little contribution, through strength in numbers, can go a long way!  
 
 ### Markdown
 
